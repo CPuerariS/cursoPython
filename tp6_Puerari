@@ -1,0 +1,6 @@
+"""1. Para cada uno de los siguientes casos, distinga el tipo de error y describa por qué
+se da:
+▪ print(5/0) El error es ZeroDivisionError, que es cuando un nuero es dividio por cero
+▪ print 3 El error es SyntaxError, sucede por la falta de 
+▪ int(‘hola’)
+▪ res = 3 + ‘5’"""
